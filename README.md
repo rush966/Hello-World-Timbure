@@ -32,6 +32,8 @@
   
   <h1>TIMBURE TREK</h1>
   <h2 id="tim-bure">Timbure Backgroup</h2>
+  
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdZmfS7jTouMbOf7ISrZkozJh5c8zqkSoi7UyhiNva9mZOSmvz3Q" width="500"></p>
     
   <p>Timbure is a beautiful hill side village located 8km from Rimbick town (darjeeling district), in North Bengal. The sloppy lush green peaks of the  Singalila National forest range overlooks this small sleepy himalayan village in its foothills. Twisty Seti khola a small himalayan stream which originates from Manaybhanjan runs close by the village. Thick bamboo, oak and rhododendron forest runs roughly everywhere. Its natural vegetation may be classified as temperate to alpine. Summer temperature is around 21c - 28c and Winter termperature goes around 10c -16c.
    
